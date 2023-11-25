@@ -1,0 +1,10 @@
+main {
+    /* background: -webkit-linear-gradient(left, #8a8a8a, #434343);
+    background: -moz-linear-gradient(left, #8a8a8a, #434343);
+    background: -ms-linear-gradient(left, #8a8a8a, #434343);
+    background: -o-linear-gradient(left, #8a8a8a, #434343);
+    background: linear-gradient(to right, #8a8a8a, #434343); */
+    background-color: beige;
+    background-size: cover;
+    min-height: 100vh;
+}
